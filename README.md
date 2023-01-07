@@ -1,4 +1,4 @@
-# Olá, o meu apelido é Dimi
+# Olá, o meu nome é Dimitri!
 - 😁 Estou aprendendo back-end
 - 🐍 Estudando Python
 - 📜 Contate-me: dimitrimatheusdeoliveira@gmail.com
