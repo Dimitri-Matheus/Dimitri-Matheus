@@ -1,21 +1,26 @@
-# 💫 About Me:
-Estou trabalhando em casa.<br>Eu ajudo a comunidade.<br>Estou aprendendo programação.<br>Pergunte-me!<br>
+# Olá, o meu apelido é Dimi
+- 😁 Estou aprendendo back-end
+- 🐍 Estudando Python
+- 📜 Contate-me: dimitrimatheusdeoliveira@gmail.com
+##
+![](https://github-readme-stats.vercel.app/api?username=Dimitri-Matheus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitri-Matheus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=demo)
+</div>
+<div style="display: inline_block"><br>
+  <h2>Perfil:</h2>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
+  <img align="left" alt="GitHubdex" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/pusheencat.png">
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimi_1514) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@dimitrimatheus2) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dimitri-Matheus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dimitri-Matheus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitri-Matheus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dimitri-Matheus&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
+<div>
+  <a href="https://www.instagram.com/dimi_1514" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.discord.com/Dimi_22" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = ""><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatodimitrimatheusdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+</div>
+![Snake animation](https://github.com/rafaballerini/Dimitri-Matheus/blob/output/github-contribution-grid-snake.svg)
 ---
-[![](https://visitcount.itsvg.in/api?id=Dimitri-Matheus&icon=5&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
