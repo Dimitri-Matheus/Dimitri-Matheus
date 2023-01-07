@@ -24,4 +24,3 @@
    ![Snake animation](https://github.com/Dimitri-Matheus/Dimitri-Matheus/blob/output/github-contribution-grid-snake.svg)
   
 </div>
----
