@@ -1,4 +1,4 @@
-- uses: Platane/snk@v2
+- uses: Dimitri-Matheus/.github/workflows/snake.yml
 
   with:
 
