@@ -1,4 +1,4 @@
-- uses: Dimitri-Matheus/.github/workflows/snake.yml
+- uses: Dimitri-Matheus
 
   with:
 
