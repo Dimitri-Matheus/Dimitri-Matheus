@@ -15,6 +15,7 @@
 <div>
 <div style="display: inline_block"><br>
   <h2>Perfil:</h2>
+
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,12 +23,14 @@
   <img align="left" alt="GitHubdex" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/pusheencat.png">
 </div>
 
----
-
 <div>
   <a href="https://www.instagram.com/dimi_1514" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/playlist/4GcKjTEZTahjP0pqVhHR5M?si=76e7f7f5d04d4bb7&pt=4c1d49748882f79132c2d2ac6c435fef"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatodimitrimatheusdeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+#
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
