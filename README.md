@@ -26,7 +26,7 @@
 <div>
   <a href="https://www.instagram.com/dimi_1514" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/playlist/4GcKjTEZTahjP0pqVhHR5M?si=76e7f7f5d04d4bb7&pt=4c1d49748882f79132c2d2ac6c435fef"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatodimitrimatheusdeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dimitrimatheusdeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 #
