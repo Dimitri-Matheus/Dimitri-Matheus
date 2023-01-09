@@ -31,7 +31,7 @@
 
 #
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Dimitri-Matheus/Dimitri-Matheus/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
