@@ -10,7 +10,7 @@
 
 ## Repositórios:
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Pokedex-Python&theme=dark&show_owner=false)
-![](https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Hello-World&theme=dark&show_owner=false)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=First_Websited&theme=dark&show_owner=false)
 
 <div>
 <div style="display: inline_block"><br>
