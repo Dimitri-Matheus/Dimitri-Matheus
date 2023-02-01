@@ -10,7 +10,7 @@
 
 ## Repositórios:
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Pokedex-Python&theme=dark&show_owner=false)
-![](https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Website&theme=dark&show_owner=false)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Pokedex-Modern&theme=dark&show_owner=false)
 
 <div>
 <div style="display: inline_block"><br>
