@@ -1,16 +1,15 @@
-# Olá! Eu sou o Dimitri 🐲
-- 😁 Estou aprendendo back-end
-- 🐍 Estudando Python
-- 📜 Fazendo vários projetos
+# Olá! O meu nome é Dimitri, faço vários projetos e ajudo a comunidade!
 
-#
 
 ![](https://github-readme-stats.vercel.app/api?username=Dimitri-Matheus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitri-Matheus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=default)
 
 ## Repositórios:
-![](https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Pokedex-Python&theme=dark&show_owner=false)
-![](https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Pokedex-Modern&theme=dark&show_owner=false)
+<div>
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Website&theme=dark&show_owner=false" target="_blank"><img src="" target="_blank"></a>
+  <a href="https://github.com/Dimitri-Matheus/Pokedex-Modern" target="_blank"><img scr="https://github-readme-stats.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Pokedex-Modern&theme=dark&show_owner=false" target="_blank"></a>
+</div>
+
 
 <div>
 <div style="display: inline_block"><br>
