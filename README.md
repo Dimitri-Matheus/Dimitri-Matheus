@@ -7,7 +7,7 @@
 
 
 <div>
-  <a href="https://github.com/Dimitri-Matheus/Weather-App" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Website&theme=dark&show_owner=false" target="_blank"></a>
+  <a href="https://github.com/Dimitri-Matheus/Weather-App" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Weather-App&theme=dark&show_owner=false" target="_blank"></a>
   <a href="https://github.com/Dimitri-Matheus/Pokedex-Modern" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Pokedex-Modern&theme=dark&show_owner=false" target="_blank"></a>
     
 </div>
