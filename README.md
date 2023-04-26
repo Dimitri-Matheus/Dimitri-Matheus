@@ -1,4 +1,4 @@
-# O meu nome é Dimitri, faço vários projetos e ajudo a comunidade!
+# Meu nome é Dimitri, trabalho em vários projetos e ajudo a comunidade!
 
 ![](https://github-readme-stats-dimitri-matheus.vercel.app/api?username=Dimitri-Matheus&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=issues,contribs)
 ![](https://github-readme-stats-dimitri-matheus.vercel.app/api/top-langs/?username=Dimitri-Matheus&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
