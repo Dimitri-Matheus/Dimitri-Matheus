@@ -7,8 +7,8 @@
 
 
 <div>
-  <a href="https://github.com/Dimitri-Matheus/Weather-App" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Simpliclima&theme=github_dark&show_owner=false&hide_border=true" target="_blank"></a>
-  <a href="https://github.com/Dimitri-Matheus/Pokedex-Modern" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Minidex&theme=github_dark&show_owner=false&hide_border=true" target="_blank"></a>
+  <a href="https://github.com/Dimitri-Matheus/Weather-App" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Minidex&theme=github_dark&show_owner=false&hide_border=true" target="_blank"></a>
+  <a href="https://github.com/Dimitri-Matheus/Pokedex-Modern" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Simpliclima&theme=github_dark&show_owner=false&hide_border=true" target="_blank"></a>
     
 </div>
 
