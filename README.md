@@ -1,5 +1,5 @@
 # Meu nome é Dimitri, trabalho em vários projetos e ajudo a comunidade!
-### Estudante e desenvolvedor de software apaixonado por programação, estou constantemente buscando aprimorar minhas habilidades em **Python, Flutter e na área de desenvolvimento mobile.**
+Estudante e desenvolvedor de software apaixonado por programação, estou constantemente buscando aprimorar minhas habilidades em **Python, Flutter e na área de desenvolvimento mobile.**
 
 ---
 
@@ -8,8 +8,8 @@
 -  Estudante
 -  Atualmente aprendendo flutter
 -  Pergunte-me sobre o mercado de tecnologia, hardware e software
--  Cursos: [Curso em Vídeo](https://www.cursoemvideo.com/) [e]() [FreeCodeCamp](https://www.freecodecamp.org/learn/)
--  Livros: [Estruturas de dados e algoritmos](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932) [e]() [Seja um Programador Foda!](https://www.amazon.com.br/Seja-Programador-Foda-carreira-sucesso-ebook/dp/B08SMPL46V)
+-  Cursos: CursoemVideo e FreeCodeCamp
+-  Livros: Estruturas de dados e algoritmos e Seja um Programador Foda!
 
 ## Repositórios
 <div>
