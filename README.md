@@ -23,7 +23,7 @@
 
 #
 
-## Perfil
+## Como me encontrar
 <div>
   <div style="display: inline_block"></div><br>
     <img height="180" width="180" align="center" alt="Fish" style="border-radius:30px;" src="https://github.com/Dimitri-Matheus/Dimitri-Matheus/assets/121637762/03ec39d0-9d1a-44cd-ba83-825681a44c3f">
