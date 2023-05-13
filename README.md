@@ -5,11 +5,15 @@
 
 ## Sobre mim
 
--  Estudante
--  Atualmente aprendendo flutter
--  Pergunte-me sobre o mercado de tecnologia, hardware e software
--  Cursos: CursoemVideo e FreeCodeCamp
--  Livros: Estruturas de dados e algoritmos e Seja um Programador Foda!
+▫️ Estudante
+
+▫️ Atualmente aprendendo flutter
+
+▫️ Pergunte-me sobre o mercado de tecnologia, hardware e software
+
+▫️ Cursos: CursoemVideo e FreeCodeCamp
+
+▫️ Livros: Estruturas de dados e algoritmos e Seja um Programador Foda!
 
 ## Repositórios
 <div>
@@ -28,5 +32,9 @@
     <a href="https://www.instagram.com/dimi_math/" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/instagram/f3f3f3" /></a>
     <a href="mailto:dimitrimatheusdeoliveira@gmail.com" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/gmail/f3f3f3" /></a>
 </div>
+
+#
+
+![snake gif](https://github.com/Dimitri-Matheus/Dimitri-Matheus/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
