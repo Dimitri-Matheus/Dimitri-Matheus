@@ -17,8 +17,8 @@
 
 ## Repositórios
 <div>
-  <a href="https://github.com/Dimitri-Matheus/Minidex" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Minidex&theme=dark&show_owner=false&hide_border=true" target="_blank"></a>
-  <a href="https://github.com/Dimitri-Matheus/Simpliclima" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Simpliclima&theme=dark&show_owner=false&hide_border=true" target="_blank" align="right"></a>
+  <a href="https://github.com/Dimitri-Matheus/Minidex" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Minidex&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=43ec63&title_color=ffffff&border_color=191d24" target="_blank"></a>
+  <a href="https://github.com/Dimitri-Matheus/Simpliclima" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Simpliclima&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=43ec63&title_color=ffffff&border_color=191d24" target="_blank" align="right"></a>
 </div>
 
 #
