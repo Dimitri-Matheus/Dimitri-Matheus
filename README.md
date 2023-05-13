@@ -1,5 +1,5 @@
 # Meu nome é Dimitri, trabalho em vários projetos e ajudo a comunidade!
-Estudante e desenvolvedor de software apaixonado por programação, estou constantemente buscando aprimorar minhas habilidades em Python, Flutter e na área de desenvolvimento mobile.
+**Estudante e desenvolvedor de software apaixonado por programação, estou constantemente buscando aprimorar minhas habilidades em Python, Flutter e na área de desenvolvimento mobile.**
 
 ---
 
@@ -28,9 +28,5 @@ Estudante e desenvolvedor de software apaixonado por programação, estou consta
     <a href="https://www.instagram.com/dimi_math/" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/instagram/f3f3f3" /></a>
     <a href="mailto:dimitrimatheusdeoliveira@gmail.com" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/gmail/f3f3f3" /></a>
 </div>
-
-#
-
-![snake gif](https://github.com/Dimitri-Matheus/Dimitri-Matheus/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
