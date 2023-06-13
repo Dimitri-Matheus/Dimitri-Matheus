@@ -28,7 +28,7 @@
   <div style="display: inline_block"></div><br>
     <img height="180" width="180" align="center" alt="Fish" style="border-radius:30px;" src="https://github.com/Dimitri-Matheus/Dimitri-Matheus/assets/121637762/03ec39d0-9d1a-44cd-ba83-825681a44c3f">
     <img height="100" width="600" align="center" alt="Tech Stack" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&lineCount=1&theme=github_dark_green&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2343ec63&line1=python,python,ffffff;flutter,flutter,ffffff;dart,dart,ffffff;javascript,javascript,ffffff;" />
-    <a href="https://open.spotify.com/embed/playlist/4evCqS0YyiaOxPmKNyizZK?utm_source=generator&theme=0" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/spotify/f3f3f3" /></a>
+    <a href="" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/linkedin/f3f3f3" /></a>
     <a href="https://www.instagram.com/dimi_math/" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/instagram/f3f3f3" /></a>
     <a href="mailto:dimitrimatheusdeoliveira@gmail.com" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/gmail/f3f3f3" /></a>
 </div>
