@@ -27,9 +27,9 @@
 <div>
   <div style="display: inline_block"></div><br>
     <img height="100" width="600" align="center" alt="Tech Stack" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&lineCount=1&theme=github_dark_green&hideBg=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%23407BFF&line1=python%2CPython%2Cffffff%3Bflutter%2Cflutter%2Cffffff%3Bdart%2Cdart%2Cffffff%3Bjavascript%2Cjavascript%2Cffffff%3B" />
-    <a href="" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/linkedin/f3f3f3" /></a>
-    <a href="https://www.instagram.com/dimi_math/" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/instagram/f3f3f3" /></a>
-    <a href="mailto:dimitrimatheusdeoliveira@gmail.com" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/gmail/f3f3f3" /></a>
+    <a href="" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/linkedin/407BFF" /></a>
+    <a href="https://www.instagram.com/dimi_math/" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/instagram/407BFF" /></a>
+    <a href="mailto:dimitrimatheusdeoliveira@gmail.com" target="_blank"><img height="45" width="60" align="center" src="https://cdn.simpleicons.org/gmail/407BFF" /></a>
 </div>
 
 #
