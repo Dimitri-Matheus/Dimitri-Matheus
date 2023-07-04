@@ -5,15 +5,15 @@
 
 ## Sobre mim
 
-▫️ Estudante
+* Estudante
 
-▫️ Atualmente aprendendo flutter
+* Atualmente aprendendo flutter
 
-▫️ Pergunte-me sobre o mercado de tecnologia, hardware e software
+* Pergunte-me sobre o mercado de tecnologia, hardware e software
 
-▫️ Cursos: CursoemVideo e FreeCodeCamp
+* Cursos: CursoemVideo e FreeCodeCamp
 
-▫️ Livros: Estruturas de dados e algoritmos e Seja um Programador Foda!
+* Livros: Estruturas de dados e algoritmos e Seja um Programador Foda!
 
 ## Repositórios
 <div>
