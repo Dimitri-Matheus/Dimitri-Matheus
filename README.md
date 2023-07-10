@@ -1,4 +1,4 @@
-# Meu nome é Dimitri, trabalho em vários projetos e ajudo a comunidade!
+# Bem-vindo ao meu GitHub! Me chamo Dimitri.
 **Estudante e desenvolvedor de software apaixonado por programação, estou constantemente buscando aprimorar minhas habilidades em Python, Flutter e na área de desenvolvimento mobile.**
 
 ---
