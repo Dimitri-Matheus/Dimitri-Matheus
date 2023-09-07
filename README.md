@@ -11,8 +11,6 @@
 
 * Pergunte-me sobre o mercado de tecnologia, hardware e software
 
-* Cursos: CursoemVideo e FreeCodeCamp
-
 ## Repositórios
 <div>
   <a href="https://github.com/Dimitri-Matheus/Minidex" target="_blank"><img src="https://github-readme-stats-dimitri-matheus.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Minidex&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=407BFF&title_color=ffffff&border_color=191d24" target="_blank"></a>
