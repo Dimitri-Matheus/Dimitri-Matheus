@@ -1,5 +1,5 @@
-# Bem-vindo ao meu GitHub! Me chamo Dimitri.
-**Estudante e desenvolvedor de software apaixonado por tecnologia, estou constantemente buscando aprimorar minhas habilidades na área de desenvolvimento mobile.**
+# Bem-vindo ao meu GitHub!
+**Estudante e desenvolvedor de software apaixonado por tecnologia, estou constantemente buscando aprimorar minhas habilidades na área de desenvolvimento de software**
 
 ---
 
@@ -7,7 +7,7 @@
 
 * Estudante
 
-* Estudando Flutter e TI
+* Estudando TI...
 
 * Pergunte-me sobre o mercado de tecnologia, hardware e software
 
