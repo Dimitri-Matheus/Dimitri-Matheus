@@ -13,8 +13,8 @@
 
 ## Repositórios
 <div align="center">
-  <a href="https://github.com/Dimitri-Matheus/HSR-Script" target="_blank"><img src="https://github-readme-stats-ixlj.vercel.app/api/pin/?username=Dimitri-Matheus&repo=HSR-Script&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=9c6122&title_color=ffffff&border_color=191d24" target="_blank"></a>
-  <a href="https://github.com/Dimitri-Matheus/Snake" target="_blank"><img src="https://github-readme-stats-ixlj.vercel.app/api/pin/?username=Dimitri-Matheus&repo=MinimalTube&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=9c6122&title_color=ffffff&border_color=191d24" target="_blank"></a>
+    <a href="https://github.com/Dimitri-Matheus/MinimalTube" target="_blank"><img src="https://github-readme-stats-ixlj.vercel.app/api/pin/?username=Dimitri-Matheus&repo=MinimalTube&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=9c6122&title_color=ffffff&border_color=191d24" target="_blank"></a>
+    <a href="https://github.com/Dimitri-Matheus/Snake" target="_blank"><img src="https://github-readme-stats-ixlj.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Snake&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=9c6122&title_color=ffffff&border_color=191d24" target="_blank"></a>
 </div>
 
 #
