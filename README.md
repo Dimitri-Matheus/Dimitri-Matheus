@@ -1,5 +1,5 @@
 # Bem-vindo ao meu GitHub!
-**Estudante e desenvolvedor de software apaixonado por tecnologia, estou constantemente buscando aprimorar minhas habilidades na área de desenvolvimento de software**
+**Estudante e desenvolvedor de software, estou constantemente buscando aprimorar minhas habilidades na área de tecnologia**
 
 ---
 
