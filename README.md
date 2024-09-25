@@ -22,7 +22,7 @@
 ## Perfil
 <div>
   <div style="display: inline_block"></div><br>
-  <img height="100" width="1000" align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&titleAlign=center&lineCount=1&theme=github_dark_green&width=460&hideBg=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%239c6122&line1=python%2Cpython%2Cffffff%3Bhtml5%2Chtml%2Cffffff%3Bcss3%2Ccss%2Cffffff%3Bjavascript%2Cjavascript%2Cffffff%3B" alt="Tech Stack" />
+  <img height="100" width="1000" align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&titleAlign=center&lineCount=1&theme=github_dark_green&width=460&hideBg=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%fffffff&line1=python%2Cpython%2Cffffff%3Bhtml5%2Chtml%2Cffffff%3Bcss3%2Ccss%2Cffffff%3Bjavascript%2Cjavascript%2Cffffff%3B" alt="Tech Stack" />
 </div>
 
 #
