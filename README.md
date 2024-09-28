@@ -12,8 +12,8 @@
 
 ## Repositórios
 <div align="center">
-    <a href="https://github.com/Dimitri-Matheus/MinimalTube" target="_blank"><img src="https://github-readme-stats-delta-six-87.vercel.app/api/pin/?username=Dimitri-Matheus&repo=MinimalTube&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=fffff&title_color=ffffff&border_color=ffffff" target="_blank"></a>
-    <a href="https://github.com/Dimitri-Matheus/Snake" target="_blank"><img src="https://github-readme-stats-delta-six-87.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Snake&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=fffff&title_color=ffffff&border_color=ffffff" target="_blank"></a>
+    <a href="https://github.com/Dimitri-Matheus/MinimalTube" target="_blank"><img src="https://github-readme-stats-delta-six-87.vercel.app/api/pin/?username=Dimitri-Matheus&repo=MinimalTube&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=fffff&title_color=ffffff&border_color=191d24" target="_blank"></a>
+    <a href="https://github.com/Dimitri-Matheus/Snake" target="_blank"><img src="https://github-readme-stats-delta-six-87.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Snake&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=fffff&title_color=ffffff&border_color=191d24" target="_blank"></a>
 </div>
 
 #
@@ -21,7 +21,7 @@
 ## Perfil
 <div>
   <div style="display: inline_block"></div><br>
-  <img height="100" width="1000" align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&titleAlign=center&lineCount=1&theme=github_dark&width=460&hideBg=true&bg=%230D1117&badge=%23161B22&border=%23ffffff&titleColor=%234B70F0&line1=python%2Cpython%2Cffffff%3Bhtml5%2Chtml%2Cffffff%3Bcss3%2Ccss%2Cffffff%3Bjavascript%2Cjavascript%2Cffffff%3B" alt="Tech Stack" />
+  <img height="100" width="1000" align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&titleAlign=center&lineCount=1&theme=github_dark&width=460&hideBg=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%234B70F0&line1=python%2Cpython%2Cffffff%3Bhtml5%2Chtml%2Cffffff%3Bcss3%2Ccss%2Cffffff%3Bjavascript%2Cjavascript%2Cffffff%3B" alt="Tech Stack" />
 </div>
 
 #
