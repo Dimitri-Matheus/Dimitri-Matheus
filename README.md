@@ -6,9 +6,9 @@
 
 ## Sobre mim
 
-* Estudante de Engenharia de Software
+* Acompanho bastante o mercado de tecnologia
 
-* Estudo programação, hardware e desenvolvo projetos pessoais *(é por isso que você está aqui!)*
+* Estudante de programação, hardware e desenvolvo projetos pessoais *(é por isso que você está aqui!)*
 
 ## Repositórios
 <div align="center">
