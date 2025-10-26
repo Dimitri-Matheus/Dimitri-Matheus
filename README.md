@@ -13,7 +13,7 @@
 ## Repositórios
 <div align="center">
     <a href="https://github.com/Dimitri-Matheus/HSR-Script" target="_blank"><img src="https://github-readme-stats-delta-six-87.vercel.app/api/pin/?username=Dimitri-Matheus&repo=HSR-Script&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=4B70F0&title_color=ffffff&border_color=ffffff" target="_blank"></a>
-    <a href="https://github.com/Dimitri-Matheus/Web-puzzle-Bitcoin" target="_blank"><img src="https://github-readme-stats-delta-six-87.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Web-puzzle-Bitcoin&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=4B70F0&title_color=ffffff&border_color=ffffff" target="_blank"></a>
+    <a href="https://github.com/Dimitri-Matheus/Open-Webui-Raycast" target="_blank"><img src="https://github-readme-stats-delta-six-87.vercel.app/api/pin/?username=Dimitri-Matheus&repo=Web-puzzle-Bitcoin&theme=dark&show_owner=false&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=4B70F0&title_color=ffffff&border_color=ffffff" target="_blank"></a>
 </div>
 
 #
